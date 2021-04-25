@@ -15,7 +15,7 @@
   }
   section ul li{
       list-style: none;
-      background: rgb(0, 238, 255);
+      background: rgb(187, 187, 187);
       padding: 8px 20px;
       margin: 5px;
       letter-spacing: 2px;
@@ -23,7 +23,7 @@
   }
   section ul li.active
   {
-      background: rgb(88, 184, 136);
+      background: rgb(46, 245, 245);
       color: #fff;
   }
 .product

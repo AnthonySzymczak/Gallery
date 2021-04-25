@@ -55,6 +55,11 @@
                     $('.itemBox').filter('.'+value).show('1000');
                 }
             })
+            // adding active class on selected items only
+
+            $('.list').click(function(){
+                $(this).addClass('active').siblings().removeClass('active');
+            })
     })
     </script>
 
