@@ -4,6 +4,7 @@
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
   }
+  /*Section tags*/
   section {
       padding: 20px;
       width: 1280px;
@@ -26,6 +27,7 @@
       background: rgb(46, 245, 245);
       color: #fff;
   }
+  /*Flex Box wrapping*/
 .product
   {
     display: flex;
