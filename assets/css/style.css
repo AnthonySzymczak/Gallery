@@ -21,3 +21,13 @@
       letter-spacing: 2px;
       cursor: pointer;
   }
+  section ul li.active
+  {
+      background: rgb(88, 184, 136);
+      color: #fff;
+  }
+.product
+  {
+    display: flex;
+    flex-wrap: wrap;
+  }
